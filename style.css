@@ -1,0 +1,129 @@
+h1{
+    text-align: center;
+    font-family: eater;
+    margin-top: 50px;
+    color:  #263159;
+    
+}
+
+p{
+    text-align: center;
+    font-family: montserrat;
+    
+}
+h3{
+    font-family: merriweather;
+    color: #495579;
+}
+ol{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    background-color:#AEBDCA;
+ 
+    
+    
+}
+.hair-container{
+   position: relative;
+   top: 20px;
+   width: 200px;
+ 
+
+}
+.face-container{
+    position: relative;
+    left: 150px;
+    bottom: 131px;
+    width: 200px;
+  
+
+}
+
+.body-container{
+    margin: 10px;
+    position: relative;
+    right: 10px;
+    bottom: 284px;
+    width: 200px;
+    
+}
+.bath-container{
+    position: relative;
+    left: 300px;
+   bottom:283px;
+    width:200px;
+    display: block;
+   
+
+}
+.mouth-container{
+    margin: 10px;
+    position: relative;
+    left: 189px;
+    bottom: 400px;
+    width: 200px;
+    display: block;
+    
+}
+.closet-container
+{
+    
+    width: 200px;
+    position: relative;
+    bottom: 400px;
+    display: block;
+}
+.a-container{
+   
+    width: 200px;
+    position: relative;
+    bottom: 605px;
+    left: 199px;
+    display: block;
+}
+.food-container
+{
+   
+    width: 200px;
+    position: relative;
+    bottom: 550px;
+    display: block;
+}
+.personal-container
+{
+    
+    width: 200px;
+    position: relative;
+    bottom: 820px;
+    left: 200px;
+    display: block;
+}
+.tab
+{
+    
+    width: 200px;
+    position: relative;
+    bottom: 1487px;
+    left: 500px;
+    display: block;
+}
+.main{
+
+  position: relative;
+ bottom:1050px;
+ left: 50px;
+ width: 700px;
+}
+.jhanu{
+   
+    position: relative;
+    bottom: 1065px;
+
+
+    
+}
+.block{
+    height: 200px;
+}
